@@ -1,0 +1,1 @@
+Eerste getal = int(input())
